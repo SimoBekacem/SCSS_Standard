@@ -1,6 +1,4 @@
 2024-07-29 05:49
-Status: #baby 
-Tags: 
 
 
 # Standard style
